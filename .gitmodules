@@ -5,3 +5,6 @@
 [submodule "searchlight"]
 	path = searchlight
 	url = https://github.com/blackthrive/searchlight
+[submodule "streetlamp"]
+	path = streetlamp
+	url = https://github.com/blackthrive/streetlamp
